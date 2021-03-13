@@ -3,13 +3,14 @@ Ver1.01
 <br>
 ## 概要 ##
 <br>
-●&nbsp;初めて作成したWordPressの自作テーマ<br>
+●&nbsp;初めて作成したWordPressの自作テーマ<br><br>
 ●&nbsp;担当 ：デザイン、コーディング<br>
 ●&nbsp;使用スキル：WordPress、PHP、HTML、Bootstrap、<br>
 ●&nbsp;使用ソフト：VScode、<br>
 ●&nbsp;Localを使用してWordPressのローカル環境を構築しました。<br>
 <br>
 ## 概要 ##
+<br>
 ●&nbsp;アイキャッチ画像の表示<br>
 ●&nbsp;記事の追加<br>
 &nbsp;Twitter、GitHub等のリンク<br>
