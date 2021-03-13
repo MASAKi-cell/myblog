@@ -9,7 +9,8 @@ Ver1.01
 ●&nbsp;使用ソフト：VScode、<br>
 ●&nbsp;Localを使用してWordPressのローカル環境を構築しました。<br>
 <br>
-## 概要 ##
+
+## 機能 ##
 <br>
 ●&nbsp;アイキャッチ画像の表示<br>
 ●&nbsp;記事の追加<br>
