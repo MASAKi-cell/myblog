@@ -14,7 +14,7 @@ Ver1.01
 <br>
 ●&nbsp;アイキャッチ画像の表示<br>
 ●&nbsp;記事の追加<br>
-&nbsp;Twitter、GitHub等のリンク<br>
+●&nbsp;Twitter、GitHub等のリンク<br>
 ●&nbsp;お問い合わせページ作成<br>
 ●&nbsp;サイドバーの表示<br>
 ●&nbsp;検索機能<br>
