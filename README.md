@@ -1,4 +1,4 @@
-# myblog&nbsp;&nbsp;自作テーマを利用した個人ブログ
+# myblog&nbsp;&nbsp;自作テーマを利用した個人ブログ 
 Ver1.01
 <br>
 ## 概要 ##
