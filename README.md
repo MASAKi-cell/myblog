@@ -16,5 +16,6 @@ Ver1.01
 ●&nbsp;記事の追加<br>
 ●&nbsp;Twitter、GitHub等のリンク<br>
 ●&nbsp;お問い合わせページ作成<br>
+●&nbsp;ページネーションの実装<br>
 ●&nbsp;サイドバーの表示<br>
 ●&nbsp;検索機能<br>
