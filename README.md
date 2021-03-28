@@ -15,9 +15,10 @@ Ver1.01
 WordPressの基本的な機能を実装しました。<br>
 自作テーマを作成するために、PHPの基本は一通り学習しました。<br><br>
 
+●&nbsp;デザインはBootstrapを使用<br>
 ●&nbsp;アイキャッチ画像の表示<br>
 ●&nbsp;記事の追加<br>
-●&nbsp;Twitter、GitHub等のリンク<br>
+●&nbsp;Twitter、GitHub、facebookのリンク作成<br>
 ●&nbsp;お問い合わせページ作成<br>
 ●&nbsp;ページネーションの実装<br>
 ●&nbsp;検索機能<br>
