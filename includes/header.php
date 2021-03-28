@@ -21,6 +21,7 @@
             <a class="nav-link" href="<?php echo esc_attr($item->url); ?>"><?php echo esc_html($item->title); ?></a>
           </li>
           <?php endforeach; ?>
+          <?php get_search_form(); ?>
         </ul>
       </div>
     </div>
