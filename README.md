@@ -3,6 +3,7 @@ Ver1.01
 <br>
 ## 概要 ##
 <br>
+●&nbsp;サイトURL：https://my-portfoilo-site.red/<br><br>
 ●&nbsp;初めて作成したWordPressの自作テーマ<br>
 ●&nbsp;担当 ：デザイン、コーディング<br>
 ●&nbsp;使用スキル：WordPress、PHP、HTML、Bootstrap、<br>
